@@ -1,0 +1,9 @@
+王炸2  id:9999      ok
+炸弹4  id:999 val   ok
+单张   两张   三张   三带一  三带二  单张顺子  两张顺子  三张顺子  三带一顺子  三带二顺子
+1      2      3      4       5       5-13      6+2k      6+3k      8+4k        10+5k          牌数区间
+0      1      2      3       4       5         6         7         8           9             类型编号
+val    val    val    val三   val三   val1长    val1长    val1长    val1长      val1长               
+                                     val2始    val2始    val2始    val2始      val2始
+                                     len       len/2     len/3     len/2       2*len/5
+ok     ok     ok     ok      ok      ok        ok        ok        
